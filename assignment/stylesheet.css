@@ -1,10 +1,33 @@
 .header {
     padding: 10px;
     text-align: center;
-    background: #1d0e43;
-    color: white;
+    background: #aaa89e;
+    color: rgb(53, 3, 3);
     font-size: 15px;
     margin-left: 25%;
     margin-right: 25%;
     border-radius: 15px 15px 15px 15px;
+  }
+
+  .info {
+    padding: 10px;
+    text-align: center;
+    background: #abafb9;
+    color: rgb(37, 2, 2);
+    font-size: 15px;
+    margin-top: 2%;
+    margin-left: 18%;
+    margin-right: 18%;
+    border-radius: 15px 15px 15px 15px;
+  }
+
+  .corolla {
+    background-color: rgb(98, 112, 125);
+    border-radius: 15px 15px 15px 15px;
+    transform: scale(0.9);
+    font-size: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    padding: 10px;
   }
